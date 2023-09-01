@@ -1,0 +1,393 @@
+[
+  {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device1",
+      "TankName": "Charlie",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 60,
+      "WaterVolumeCC": "6.2",
+      "NotificationAlert": null
+    
+  },
+   {
+      "SiteName": "DSP-South",
+      "DeviceName": "Device2",
+      "TankName": "Bita",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 88,
+      "WaterVolumeCC": "7.78",
+      "NotificationAlert": "Leak detected"
+    
+  },
+ {
+        "SiteName": "DSP-East",
+      "DeviceName": "Device3",
+      "TankName": "alfa",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 72,
+      "WaterVolumeCC": "7.0",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device4",
+      "TankName": "Gamma",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 92,
+      "WaterVolumeCC": "9.06",
+      "NotificationAlert": "Leak detected"
+    
+  },
+   {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device5",
+      "TankName": "Razer",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 55,
+      "WaterVolumeCC": "5.3",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-South",
+      "DeviceName": "Device6",
+      "TankName": "Gomti",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 65,
+      "WaterVolumeCC": "6.45",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-East",
+      "DeviceName": "Device7",
+      "TankName": "Catherine",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 40,
+      "WaterVolumeCC": "4.2",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device8",
+      "TankName": "Santy",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 68,
+      "WaterVolumeCC": "6.78",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device9",
+      "TankName": "Omega",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 52,
+      "WaterVolumeCC": "52.0",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-South",
+      "DeviceName": "Device10",
+      "TankName": "Lambda",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-East",
+      "DeviceName": "Device11",
+      "TankName": "Charlie-1",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 76,
+      "WaterVolumeCC": "7.69",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device12",
+      "TankName": "Lambda-1",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 79,
+      "WaterVolumeCC": "7.9",
+      "NotificationAlert": null
+    
+  },
+   {    
+        "SiteName": "DSP-North",
+      "DeviceName": "Device13",
+      "TankName": "Omega-1",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 63,
+      "WaterVolumeCC": "6.29",
+      "NotificationAlert": null
+    
+  },
+  {
+        "SiteName": "DSP-South",
+      "DeviceName": "Device14",
+      "TankName": "Santy-1",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-East",
+      "DeviceName": "Device15",
+      "TankName": "Catherine-1",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 83,
+      "WaterVolumeCC": "8.29",
+      "NotificationAlert": "Leak detected"
+    
+  },
+   {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device16",
+      "TankName": "Alfa-1",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 49,
+      "WaterVolumeCC": "4.89",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device17",
+      "TankName": "Bita-1",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+  {
+        "SiteName": "DSP-South",
+      "DeviceName": "Device18",
+      "TankName": "Lambda-2",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 51,
+      "WaterVolumeCC": "5.19",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-East",
+      "DeviceName": "Device19",
+      "TankName": "Alfa-2",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 42,
+      "WaterVolumeCC": "4.29",
+      "NotificationAlert": null
+    
+  },
+  {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device20",
+      "TankName": "Catherine",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 69,
+      "WaterVolumeCC": "6.69",
+      "NotificationAlert": null
+    
+  },
+  {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device21",
+      "TankName": "Santy-1",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 25,
+      "WaterVolumeCC": "2.49",
+      "NotificationAlert": null
+    
+  },
+  {
+
+        "SiteName": "DSP-South",
+      "DeviceName": "Device22",
+      "TankName": "Bita-2",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-East",
+      "DeviceName": "Device23",
+      "TankName": "Lambda-2",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 74,
+      "WaterVolumeCC": "7.39",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device24",
+      "TankName": "Omega-2",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 44,
+      "WaterVolumeCC": "4.42",
+      "NotificationAlert": null
+    
+  },
+  {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device25",
+      "TankName": "omega-3",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 23,
+      "WaterVolumeCC": "2.29",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-South",
+      "DeviceName": "Device26",
+      "TankName": "Lambda-3",
+      "TankStatus": "Leaking",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 89,
+      "WaterVolumeCC": "8.99",
+      "NotificationAlert": "Leak detected"
+    
+  },
+   {    
+        "SiteName": "DSP-East",
+      "DeviceName": "Device27",
+      "TankName": "Alfa-3",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-West",
+      "DeviceName": "Device28",
+      "TankName": "Santy-3",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 27,
+      "WaterVolumeCC": "2.67",
+      "NotificationAlert": null
+    
+  },
+  {
+        "SiteName": "DSP-North",
+      "DeviceName": "Device29",
+      "TankName": "gamma-2",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "ON",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 21,
+      "WaterVolumeCC": "2.11",
+      "NotificationAlert": null
+    
+  },
+   {
+        "SiteName": "DSP-South",
+      "DeviceName": "Device30",
+      "TankName": "Lambda",
+      "TankStatus": "Healthy",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "ONLINE",
+      "WaterLevelPercent": 0,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  }
+]
